@@ -16,7 +16,7 @@ Only the scores of Thomas were revised. The impact would be to Thomas’ ranking
 *Thomas’ performance relative to the other schools*
 
 Thomas’ ranking among all 15 schools was affected as follows:  
-| Average math:		  4th to 6th  
+Average math:		  4th to 6th  
   Average reading:	Remains 5th  
 Passing math:		  Remains 7th  
 Passing reading:  1st to 3rd  
@@ -37,7 +37,7 @@ o	Scores by school spending
 o	For the four schools in the same spending range of $630-$644 (per student) as Thomas, there was no change. When ranked by % Overall Passing, Thomas was and remains in 1st place for all test score categories. 
 
 o	Scores by school size
-o	For the five schools in the same Medium size category as Thomas, the relative changes follow when ranked by % Overall Passing:
+o	For the five schools in the same **Medium Size** category as Thomas, the relative changes follow when ranked by % Overall Passing:
 Medium schools
 Average math:  	    2nd to 4th
 Average reading:  	Remains 3rd
