@@ -17,12 +17,12 @@ Only the scores of Thomas were revised. The impact would be to Thomas’ ranking
 
 *Thomas’ performance relative to the other schools*
 
-Thomas’ ranking among all 15 schools was affected as follows:
-Average math:		  4th to 6th
-Average reading:	Remains 5th
-Passing math:		  Remains 7th
-Passing reading:  1st to 3rd
-Overall:  		    Remains 2nd
+Thomas’ ranking among all 15 schools was affected as follows:  
+Average math:		  4th to 6th  
+Average reading:	Remains 5th  
+Passing math:		  Remains 7th  
+Passing reading:  1st to 3rd  
+Overall:  		    Remains 2nd  
 
 •	
 •	Replacing the ninth-grade scores had the following impact:
