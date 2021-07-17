@@ -26,10 +26,10 @@ Thomas’ ranking among all 15 schools was affected as follows:
     - Thomas was ranked 3rd but moves to last as there is no math score  
     - All schools previously ranked below Thomas move up one rank as Thomas moves from 3rd to 15th.
 
-	Thomas was ranked 5th but moves to last as there is no reading score
-	All schools previously ranked below Thomas move up one rank as Thomas moves from 5th to 15th.
+    - Thomas was ranked 5th but moves to last as there is no reading score
+    - All schools previously ranked below Thomas move up one rank as Thomas moves from 5th to 15th.
 
-	There is no impact on the scores of 10th, 11th, and 12th graders.
+    - There is no impact on the scores of 10th, 11th, and 12th graders.
 
 o	Scores by school spending
 o	For the four schools in the same spending range of $630-$644 (per student) as Thomas, there was no change. When ranked by % Overall Passing, Thomas was and remains in 1st place for all test score categories. 
