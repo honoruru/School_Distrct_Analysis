@@ -69,4 +69,4 @@ The presentation of this statistic is deserving of at least a footnote that the 
 
   -	Thomas is no longer ranked in the 9th grade math and reading scores as there are no 9th grader scores.  
 
-  -	Thomas’ overall ranking (based on 10th, 11th, and 12th grader scores were impacted in some, but not all, cases.  Most notably, Thomas’ rank as 2nd in the district based on % Overall Passing was unchanged.  Where there was little or no effect on Thomas’ rankings, one would conclude that the suspect 9th grader scores were followed a distribution similar to the remaining student body.  
+  -	Thomas’ overall rankings (based on 10th, 11th, and 12th grader scores) were impacted in some, but not all, cases.  Most notably, Thomas’ rank as 2nd in the district based on % Overall Passing was unchanged.  Where there was little or no effect on Thomas’ rankings, one would conclude that the suspect 9th grader scores were followed a distribution similar to the remaining student body.  
