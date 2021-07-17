@@ -21,7 +21,7 @@ Thomas’ ranking among all 15 schools was affected as follows:
   - Passing reading:  1st to 3rd  
   - Overall:  		    Remains 2nd  
 
-*Replacing the ninth-grade scores had the following impact:
+*Replacing the ninth-grade scores had the following impact:*  
   - Math and reading scores by grade  
     - Thomas was ranked 3rd but moves to last as there is no math score  
     - All schools previously ranked below Thomas move up one rank as Thomas moves from 3rd to 15th.
