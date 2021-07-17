@@ -13,14 +13,13 @@ The District’s Overall Passing Percentage decreased by 0.317 percentile points
 *The school summary was minimally affected*  
 Only the scores of Thomas were revised. The impact would be to Thomas’ ranking among other district schools as detailed below. 
 
-*Thomas’ performance relative to the other schools*
-
+*Thomas’ performance relative to the other schools*  
 Thomas’ ranking among all 15 schools was affected as follows:  
-Average math:		  4th to 6th  
-Average reading:	Remains 5th  
-Passing math:		  Remains 7th  
-Passing reading:  1st to 3rd  
-Overall:  		    Remains 2nd  
+-Average math:		  4th to 6th  
+-Average reading:	Remains 5th  
+-Passing math:		  Remains 7th  
+-Passing reading:  1st to 3rd  
+-Overall:  		    Remains 2nd  
 
 •	
 •	Replacing the ninth-grade scores had the following impact:
