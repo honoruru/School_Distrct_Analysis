@@ -55,13 +55,13 @@ For the eight charter schools of with Thomas is one, the relative changes follow
 
 In summary, four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.  
 
-1.	The math and reading scores of Thomas 9th graders in student_data_df was replaced with NaN.  This effectively removed their data from the numerator used in calculating math, reading and overall test percentages in the school district analysis.  
+1.	The math and reading scores of Thomas 9th graders in student_data_df were replaced with NaN.  This effectively removed their data from the numerator used in calculating math, reading and overall test percentages in the school district analysis.  
 
 2.	The count of Thomas 9th graders was subtracted from the total student count in school_data_complete_df. This reduced the denominator used in calculating math, reading and overall test percentages in the school district analysis.  It should be noted that the total student count in school_data_complete_df was not changed.  
 
-The combined effect of 1. and 2. is that the Thomas 9th graders’ scores are not considered in the calculation of math, reading, and passing percentages.  In effect, the Thomas 9th graders were not students in the district for grading purposes.  
+The combined effect of 1. and 2. is that the Thomas 9th graders’ scores are not considered in the district's calculation of math, reading, and passing percentages.  In effect, the Thomas 9th graders were not students in the district for grading purposes.  
 
-3.	Thomas’ % Passing scores were recalculated based on those of 10th, 11th, and 12th graders.  This was done by reducing the number of Thomas students by the number of 9th graders.  Ninth grader scores were already effectively removed from the data by their replacement with NaN.  The % Passing scores were then inserted into the per_school_summary_df, replacing the values which included the suspect 9th grader calculations.  
+3.	Thomas’ % Passing scores were recalculated based on those of 10th, 11th, and 12th graders.  This was done by reducing the number of Thomas students by the number of 9th graders.  Ninth grader scores were already effectively removed from the data by their replacement with NaN.  The % Passing scores were then inserted into the per_school_summary_df, replacing the values calculated using the suspect 9th grader scores.  
 
 The presentation of this statistic is deserving of at least a footnote that the determination and inclusion of actual 9th grade scores is pending the outcome of the district’s investigation.   
 
@@ -69,4 +69,4 @@ The presentation of this statistic is deserving of at least a footnote that the 
 
     -	Thomas is no longer ranked in the 9th grade math and reading scores as there are no 9th grader scores.  
 
-    -	Thomas’ overall rankings (based on 10th, 11th, and 12th grader scores) were impacted in some, but not all, cases.  Most notably, Thomas’ rank as 2nd in the district based on % Overall Passing was unchanged.  Where there was little or no effect on Thomas’ rankings, one would conclude that the suspect 9th grader scores followed a distribution similar to the remaining student body.  
+    -	Thomas’ overall rankings in the district (based on 10th, 11th, and 12th grader scores) were impacted in some, but not all, cases.  Most notably, Thomas’ rank as 2nd in the district based on % Overall Passing was unchanged.  Where there was little or no effect on Thomas’ rankings, one would conclude that the suspect 9th grader scores followed a distribution similar to the remaining student body.  
