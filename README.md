@@ -6,9 +6,10 @@ After evidence of academic dishonesty in reading and math grades for Thomas High
 ## Results
 
 To summarize the impact of the replacement of Thomas scores with Nans:
-•	The district summary was minimally affected.
+
+The district summary was minimally affected.
 The District’s Overall Passing Percentage decreased by 0.317 percentile points to 64.856%.
-•	The school summary was minimally affected.
+The school summary was minimally affected.
 Only the scores of Thomas were revised. The impact would be to Thomas’ ranking among other district schools as detailed below. 
 •	Thomas’ performance relative to the other schools
 Thomas’ ranking among all 15 schools was affected as follows:
